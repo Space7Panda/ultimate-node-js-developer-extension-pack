@@ -3,11 +3,17 @@
     "displayName": "Ultimate Node.js developer extension pack",
     "description": "Most common extensions for Node.js developer",
     "version": "1.0.0",
+    "publisher": "space7panda",
+    "license": "MIT",
     "engines": {
         "vscode": "^1.63.0"
     },
     "categories": [
         "Extension Packs"
+    ],
+    "keywords": [
+        "node",
+        "IDE"
     ],
     "extensionPack": [
         "aaron-bond.better-comments",
@@ -71,5 +77,10 @@
         "yzhang.markdown-all-in-one",
         "Zignd.html-css-class-completion",
         "ziyasal.vscode-open-in-github"
-    ]
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Space7Panda/ultimate-node-js-developer-extension-pack"
+    },
+    "homepage": "https://github.com/Space7Panda/ultimate-node-js-developer-extension-pack/README.md"
 }
