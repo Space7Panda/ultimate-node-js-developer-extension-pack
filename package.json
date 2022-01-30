@@ -15,6 +15,7 @@
         "node",
         "IDE"
     ],
+    "icon": "images/icon.png",
     "extensionPack": [
         "aaron-bond.better-comments",
         "abusaidm.html-snippets",
