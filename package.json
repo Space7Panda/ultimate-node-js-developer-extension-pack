@@ -2,8 +2,8 @@
     "name": "ultimate-node-js-developer-extension-pack",
     "displayName": "Ultimate Node.js developer extension pack",
     "description": "Most common extensions for Node.js developer",
-    "version": "1.0.0",
-    "publisher": "space7panda",
+    "version": "1.0.1",
+    "publisher": "Space7Panda",
     "license": "MIT",
     "engines": {
         "vscode": "^1.63.0"
@@ -20,7 +20,6 @@
         "aaron-bond.better-comments",
         "abusaidm.html-snippets",
         "alefragnani.project-manager",
-        "Atishay-Jain.All-Autocomplete",
         "christian-kohler.npm-intellisense",
         "christian-kohler.path-intellisense",
         "codezombiech.gitignore",
@@ -46,7 +45,6 @@
         "IBM.output-colorizer",
         "jasonlhy.hungry-delete",
         "jasonnutter.search-node-modules",
-        "JoeBerria.statusbarerror",
         "krizzdewizz.refactorix",
         "lacroixdavid1.vscode-format-context-menu",
         "mhutchie.git-graph",
@@ -76,7 +74,6 @@
         "xabikos.JavaScriptSnippets",
         "xyz.local-history",
         "yzhang.markdown-all-in-one",
-        "Zignd.html-css-class-completion",
         "ziyasal.vscode-open-in-github"
     ],
     "repository": {

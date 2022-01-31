@@ -7,3 +7,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [1.0.1]
+
+### Removed
+
+- zignd.html-css-class-completion
+- atishay-jain.all-autocomplete
+- joeberria.statusbarerror
