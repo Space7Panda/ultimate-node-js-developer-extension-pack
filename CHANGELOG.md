@@ -4,9 +4,17 @@ All notable changes to the "ultimate-node-js-developer-extension-pack" extension
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.2]
 
-- Initial release
+### Removed
+
+- CoenraadS.bracket-pair-colorizer-2
+- micnil.vscode-checkpoints
+- donjayamanne.githistory
+- jasonlhy.hungry-delete
+- xyz.local-history
+- ctf0.macros
+- ms-vscode.vscode-typescript-tslint-plugin
 
 ## [1.0.1]
 
